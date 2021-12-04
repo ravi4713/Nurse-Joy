@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347624115316",
+    "project_id": "nurse-joy-1272c",
+    "storage_bucket": "nurse-joy-1272c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347624115316:android:8bb61952960ff947c55521",
+        "android_client_info": {
+          "package_name": "com.ensias.healthcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347624115316-mr19kmts15d2101sf5kc373otpf5klj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoLeyzMGPaY56apvjnZko5LbloPUQ2hD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347624115316-mr19kmts15d2101sf5kc373otpf5klj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
